@@ -21,6 +21,8 @@ class DaysInMonth
 
         Console.WriteLine("CHUONG TRINH TINH SO NGAY TRONG THANG");
         Console.WriteLine("====================================");
+        
+        // Su dung vong ... nhap cho den khi nao du lieu dung
 
         // Nhập tháng
         Console.Write("Nhap thang (1-12): ");
