@@ -26,17 +26,57 @@ class DaysInMonth
         Console.Write("Nhap thang (1-12): ");
         month = int.Parse(Console.ReadLine());
 
-
-        // .... Bao loi va dung chuong trinh neu nhap thang sai
+        // Kiểm tra tháng hợp lệ
+        if (month < 1 || month > 12)
+        {
+            Console.WriteLine("Thang khong hop le! Vui long nhap tu 1 den 12.");
+            return;
+        }
 
         // Nhập năm (để kiểm tra năm nhuận cho tháng 2)
         Console.Write("Nhap nam: ");
         year = int.Parse(Console.ReadLine());
 
         // Xác định số ngày trong tháng
-        // switch ... case / kết hơp if ... elss
+        // Xác định số ngày trong tháng
+        switch (month)
+        {
+            case 1:  // Tháng 1
+            case 3:  // Tháng 3
+            case 5:  // Tháng 5
+            case 7:  // Tháng 7
+            case 8:  // Tháng 8
+            case 10: // Tháng 10
+            case 12: // Tháng 12
+                days = 31;
+                break;
 
+            case 4:  // Tháng 4
+            case 6:  // Tháng 6
+            case 9:  // Tháng 9
+            case 11: // Tháng 11
+                days = 30;
+                break;
 
+            case 2:  // Tháng 2
+                // Kiểm tra năm nhuận
+                if (IsLeapYear(year))
+                {
+                    days = 29;
+                }
+                else
+                {
+                    days = 28;
+                }
+                break;
+
+            default:
+                days = 0;
+                break;
+        }
+        // In kết quả
+        Console.WriteLine("\nKet qua:");
+        Console.WriteLine("Thang {0} nam {1} co {2} ngay", month, year, days);
     }
 }
 
