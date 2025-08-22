@@ -14,26 +14,27 @@ class DaysInMonth
         return (year % 4 == 0 && year % 100 != 0) || (year % 400 == 0);
     }
 
-    static void Main()
+    static void Main123()
     {
         int month, year;
         int days;
 
         Console.WriteLine("CHUONG TRINH TINH SO NGAY TRONG THANG");
         Console.WriteLine("====================================");
-        
+
         // Su dung vong ... nhap cho den khi nao du lieu dung
 
         // Nhập tháng
-        Console.Write("Nhap thang (1-12): ");
-        month = int.Parse(Console.ReadLine());
+        do {
+            Console.Write("Nhap thang (1-12): ");
+            month = int.Parse(Console.ReadLine());
 
-        // Kiểm tra tháng hợp lệ
-        if (month < 1 || month > 12)
-        {
-            Console.WriteLine("Thang khong hop le! Vui long nhap tu 1 den 12.");
-            return;
-        }
+            // Kiểm tra tháng hợp lệ
+            if (month < 1 || month > 12)
+            {
+                Console.WriteLine("Thang khong hop le! Vui long nhap tu 1 den 12.");
+            }
+        } while (month <1 || month > 12);
 
         // Nhập năm (để kiểm tra năm nhuận cho tháng 2)
         Console.Write("Nhap nam: ");
