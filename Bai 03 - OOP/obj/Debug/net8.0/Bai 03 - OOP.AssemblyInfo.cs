@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 03 - OOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0c95df32459a3fa1cddf1ee4266a4649cfc24db")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+875e193492ce4412a5a1ab15849381d45420180c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 03 - OOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 03 - OOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

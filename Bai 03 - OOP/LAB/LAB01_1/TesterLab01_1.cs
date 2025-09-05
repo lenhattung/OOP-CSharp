@@ -23,7 +23,7 @@ public class TesterLab01_1
         Console.WriteLine("=================");
         int n = 0;
         Console.WriteLine("Nhập vố số lượng sinh viên (n)");
-        n = Int32.Parse(Console.ReadLine());
+        n = int.Parse(Console.ReadLine());
         LAB01_1.SinhVien[] danhSach = new LAB01_1.SinhVien[n];
         for(int i = 0; i < danhSach.Length; i++)
         {

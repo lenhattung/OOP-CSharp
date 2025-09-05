@@ -99,7 +99,7 @@ namespace LAB01_1
             Console.WriteLine("Nhập vào Khoa: ");
             this.Khoa = Console.ReadLine();
             Console.WriteLine("Nhập vào điểm trung bình: ");
-            this.DiemTB = Double.Parse(Console.ReadLine());
+            this.DiemTB = double.Parse(Console.ReadLine());
         }
 
         public void show()
