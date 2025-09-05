@@ -1,0 +1,60 @@
+﻿/*
+Bài tập 1: Quản lý Sinh viên
+Yêu cầu: Xây dựng hệ thống quản lý thông tin sinh viên trong một trường đại học. 
+Mỗi sinh viên có mã số, họ tên, năm sinh và điểm của 3 môn học: Toán, Lý, Hóa. 
+Hệ thống cần có khả năng tính điểm trung bình, xếp loại học lực và hiển thị
+thông tin chi tiết của sinh viên.
+
+Nhiệm vụ của sinh viên:
+
++ Phân tích yêu cầu để xác định:
+- Tên class phù hợp
+- Các thuộc tính cần có
+- Các phương thức cần thiết
+
+
++ Thiết kế class với đầy đủ constructor, properties, methods
+- Implement validation cho dữ liệu đầu vào
+- Override ToString() để hiển thị thông tin đẹp
+- Viết chương trình test với ít nhất 3 đối tượng
+
+=================================================================
+Bài tập 2: Hệ thống Nhân sự
+Yêu cầu: Công ty cần quản lý thông tin nhân viên bao gồm mã nhân viên,
+họ tên, chức vụ, mức lương cơ bản và hệ số lương. Hệ thống phải tính 
+được lương thực nhận và có thể tăng lương cho nhân viên theo tỷ lệ phần trăm.
+
+Nhiệm vụ của sinh viên:
++ Phân tích và xác định các thành phần của class
+- Thiết kế với properties có validation (lương phải > 0, hệ số > 0)
+- Implement các phương thức tính toán và cập nhật
+- Test với nhiều trường hợp khác nhau
+
+=================================================================
+Bài tập 3: Hình học cơ bản
+Yêu cầu: Xây dựng ứng dụng xử lý hình chữ nhật. 
+Ứng dụng cần lưu trữ thông tin về chiều dài và chiều rộng, tính được diện tích,
+chu vi và có khả năng vẽ hình bằng ký tự trên console.
+Nhiệm vụ của sinh viên:
+
++ Phân tích đề bài để tìm ra:
+- Tên class và thuộc tính
+- Các hành động (phương thức) cần có
+
+
+Thiết kế với encapsulation phù hợp
+- Implement với nhiều constructor khác nhau
+- Validate đầu vào (kích thước phải dương)
+- Test và demo các tính năng
+
+=================================================================
+Bài tập 4: Thử thách phân tích
+Yêu cầu mở rộng: Một cửa hàng sách cần quản lý thông tin sách bao gồm mã sách,
+tên sách, tác giả, năm xuất bản, giá bán và số lượng tồn kho. Cửa hàng cần có 
+khả năng bán sách (giảm số lượng), nhập thêm sách (tăng số lượng), kiểm tra sách
+có còn hàng không, và tính tổng giá trị kho sách.
+
+Thử thách: Hãy tự phân tích hoàn toàn để tìm ra tên class, thuộc tính, 
+phương thức và thiết kế class một cách độc lập.
+ 
+ */
