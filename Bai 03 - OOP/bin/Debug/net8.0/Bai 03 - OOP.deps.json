@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai 03 - OOP/1.0.0": {
+        "runtime": {
+          "Bai 03 - OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai 03 - OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

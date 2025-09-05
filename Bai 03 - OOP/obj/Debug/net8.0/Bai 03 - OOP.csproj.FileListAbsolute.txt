@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 03 - OOP\bin\Debug\net8.0\Bai 03 - OOP.exe
+D:\Github\OOP-CSharp\Bai 03 - OOP\bin\Debug\net8.0\Bai 03 - OOP.deps.json
+D:\Github\OOP-CSharp\Bai 03 - OOP\bin\Debug\net8.0\Bai 03 - OOP.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 03 - OOP\bin\Debug\net8.0\Bai 03 - OOP.dll
+D:\Github\OOP-CSharp\Bai 03 - OOP\bin\Debug\net8.0\Bai 03 - OOP.pdb
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.sourcelink.json
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.dll
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\refint\Bai 03 - OOP.dll
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.pdb
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\Bai 03 - OOP.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 03 - OOP\obj\Debug\net8.0\ref\Bai 03 - OOP.dll
