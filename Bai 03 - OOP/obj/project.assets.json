@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github\\OOP-CSharp\\Bai 03\\Bai 03 - OOP.csproj",
+      "projectUniqueName": "D:\\Github\\OOP-CSharp\\Bai 03 - OOP\\Bai 03 - OOP.csproj",
       "projectName": "Bai 03 - OOP",
-      "projectPath": "D:\\Github\\OOP-CSharp\\Bai 03\\Bai 03 - OOP.csproj",
+      "projectPath": "D:\\Github\\OOP-CSharp\\Bai 03 - OOP\\Bai 03 - OOP.csproj",
       "packagesPath": "C:\\Users\\tungi\\.nuget\\packages\\",
-      "outputPath": "D:\\Github\\OOP-CSharp\\Bai 03\\obj\\",
+      "outputPath": "D:\\Github\\OOP-CSharp\\Bai 03 - OOP\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
