@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 public class TestLAB01_1
 {
-    public static void Main()
+    public static void Main1()
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.InputEncoding = System.Text.Encoding.UTF8;
