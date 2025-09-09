@@ -3,14 +3,9 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>Bai_03</RootNamespace>
+    <RootNamespace>Bai_03___OOP___LAB01_3</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Folder Include="LAB\LAB01_2\" />
-    <Folder Include="LAB\LAB01_3\" />
-  </ItemGroup>
 
 </Project>
