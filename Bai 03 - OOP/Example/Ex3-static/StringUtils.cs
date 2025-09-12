@@ -36,7 +36,8 @@ namespace Bai_03.Example.Ex3_static
         public static string numberToString(int number)
         {
             // 100 => mot tram
-            // 101 => mot tram le 1
+            // 101 => mot tram le mot
+            // 1000 => mot nghin
             return "";
         }
     }

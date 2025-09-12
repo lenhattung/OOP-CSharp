@@ -10,6 +10,7 @@ namespace Bai_03___OOP___LAB01_3
     {
         static void Main(string[] args)
         {
+            Console.InputEncoding = System.Text.Encoding.UTF8;
             Console.OutputEncoding = System.Text.Encoding.UTF8;
 
             // Tạo một số sinh viên mẫu
