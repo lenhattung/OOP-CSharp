@@ -3,11 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Bai_03.Example.Ex3_static
 {
-    internal class Utils
+    public class StringUtils
     {
         public static string toTitleCase(string text)
         {
@@ -27,6 +26,18 @@ namespace Bai_03.Example.Ex3_static
                 result = result + " " + newWorld;
             }
             return result.Trim(); // xóa đi khoảng trắng dư thừa ở 2 đầu
+        }
+
+        public static string[] toWordArray(string text)
+        {
+            return text.Split(" ");
+        }
+        
+        public static string numberToString(int number)
+        {
+            // 100 => mot tram
+            // 101 => mot tram le 1
+            return "";
         }
     }
 }

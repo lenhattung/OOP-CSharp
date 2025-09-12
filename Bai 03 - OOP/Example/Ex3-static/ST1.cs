@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Bai_03.Example.Ex3_static
 {
-    public class Student1
+    public class ST1
     {
         /*
          Từ khóa static trong C# được sử dụng để tạo ra các thành phần (members) thuộc về class 
@@ -22,31 +22,36 @@ namespace Bai_03.Example.Ex3_static
             Constants và shared data: Lưu trữ dữ liệu chung
          */
 
-        // static fields - thuộc về class, không thuộc về instance
+        // static fields - thuộc về class
         public static int TotalStudents = 0;
 
-        // Instance field - thuộc về từng instance riêng biệt
-        public string Name;
-
-        public Student1(string name)
+        // Instance field
+        private string name;
+        public string Name
         {
-            Name = Utils.toTitleCase(name);
-            TotalStudents++;
+            get { return StringUtils.toTitleCase(name);  }
+            set { name = value; }
         }
 
+        public ST1(string name)
+        {
+            Name = name;
+            TotalStudents++;
+        }
     }
 
     class Program
     {
-        public static void Main()
+        public static void Main(string[] args)
         {
-            Console.WriteLine($"Ban đầu: {Student1.TotalStudents} sinh viên");
+            Console.WriteLine($"Ban dau co: {ST1.TotalStudents} st");
+            ST1 st1 = new ST1("nguyen VAN A");
+            Console.WriteLine(st1.Name);
 
-            Student1 sv1 = new Student1("nguyen thi hoa");
-            // sv1.TotalStudents => Khôn thuộc về đối sv1
-            Student1 sv2 = new Student1("duong moc lan");
+            ST1 st2 = new ST1("Nguyen Van B");
+            ST1 st3 = new ST1("Nguyen Van C");
+            Console.WriteLine($"Sau do co: {ST1.TotalStudents} st");
 
-            Console.WriteLine($"Sau khi tạo sinh viên: {Student1.TotalStudents} sinh viên");
         }
     }
 }
