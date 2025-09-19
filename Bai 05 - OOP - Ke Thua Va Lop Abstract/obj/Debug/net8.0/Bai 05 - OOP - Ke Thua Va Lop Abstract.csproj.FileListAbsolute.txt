@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\bin\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.exe
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\bin\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.deps.json
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\bin\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\bin\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.dll
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\bin\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.pdb
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.sourcelink.json
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.dll
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\refint\Bai 05 - OOP - Ke Thua Va Lop Abstract.dll
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.pdb
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\Bai 05 - OOP - Ke Thua Va Lop Abstract.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 05 - OOP - Ke Thua Va Lop Abstract\obj\Debug\net8.0\ref\Bai 05 - OOP - Ke Thua Va Lop Abstract.dll
