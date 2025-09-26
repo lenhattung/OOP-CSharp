@@ -9,7 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		Person.cs = Person.cs
 		PersonStruct.cs = PersonStruct.cs
-		Point2D = Point2D
 		Point2D.cs = Point2D.cs
 	EndProjectSection
 EndProject
