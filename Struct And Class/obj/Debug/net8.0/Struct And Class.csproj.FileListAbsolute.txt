@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Struct And Class\bin\Debug\net8.0\Struct And Class.exe
+D:\Github\OOP-CSharp\Struct And Class\bin\Debug\net8.0\Struct And Class.deps.json
+D:\Github\OOP-CSharp\Struct And Class\bin\Debug\net8.0\Struct And Class.runtimeconfig.json
+D:\Github\OOP-CSharp\Struct And Class\bin\Debug\net8.0\Struct And Class.dll
+D:\Github\OOP-CSharp\Struct And Class\bin\Debug\net8.0\Struct And Class.pdb
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.sourcelink.json
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.dll
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\refint\Struct And Class.dll
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.pdb
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\Struct And Class.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Struct And Class\obj\Debug\net8.0\ref\Struct And Class.dll
