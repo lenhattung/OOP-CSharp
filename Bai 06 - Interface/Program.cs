@@ -1,4 +1,6 @@
-﻿class Program
+﻿using System;
+
+class Program
 {
     static void Main()
     {
@@ -6,19 +8,23 @@
         car.Start();
         car.Stop();
 
-        WebService ws = new WebService();
+        Vehicle vehicle = new Car();
+        car.Start();
+
+        Webservice ws = new Webservice();
         ws.Start();
         ws.Stop();
+        ws.Load();
+        ws.Save();
 
 
-        ISaveable is1 = new WebService();
-        IStartable is2 = new WebService();
+        ISaveable is1 = new Webservice();
+        IStartable is2 = new Webservice();
 
         is1.Load();
         is2.Start();
 
-        WebService is3 = new WebService(); ;
+        Webservice is3 = new Webservice(); ;
         is3.Stop();
-
     }
 }

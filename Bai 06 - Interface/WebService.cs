@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class WebService : IStartable, ISaveable
+public class Webservice : IStartable, ISaveable
 {
-    public bool IsRunning { get ; set ; }
+    public bool IsRunning { get; set; }
 
     public void Load()
     {
-        Console.WriteLine("Web service loaded status to file");
+        Console.WriteLine("Web service loaded status from file");
     }
 
     public void Save()
@@ -29,6 +29,4 @@ public class WebService : IStartable, ISaveable
         Console.WriteLine("Web service stopped");
         IsRunning = false;
     }
-
 }
-

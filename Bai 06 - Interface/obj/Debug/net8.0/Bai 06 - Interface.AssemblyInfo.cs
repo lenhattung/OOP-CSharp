@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 06 - Interface")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed5d455f84cc51e6b058331576d8a1b93ad343eb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c90e46024e75596b2913faf409a30fc4bddcf75f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 06 - Interface")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 06 - Interface")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
