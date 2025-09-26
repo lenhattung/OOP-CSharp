@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 07 - Operator Overloading")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7eaaace6cc35667519fd59897d234d5322f9916")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+00436909076f80226dc561a7358f911bab9c53f6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 07 - Operator Overloading")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 07 - Operator Overloading")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
