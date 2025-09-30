@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai 08 - Type Checking/1.0.0": {
+        "runtime": {
+          "Bai 08 - Type Checking.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai 08 - Type Checking/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
