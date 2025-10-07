@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\bin\Debug\net8.0\Bai 09 - Properties nâng cao.exe
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\bin\Debug\net8.0\Bai 09 - Properties nâng cao.deps.json
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\bin\Debug\net8.0\Bai 09 - Properties nâng cao.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\bin\Debug\net8.0\Bai 09 - Properties nâng cao.dll
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\bin\Debug\net8.0\Bai 09 - Properties nâng cao.pdb
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.sourcelink.json
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.dll
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\refint\Bai 09 - Properties nâng cao.dll
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.pdb
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\Bai 09 - Properties nâng cao.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 09 - Properties nâng cao\obj\Debug\net8.0\ref\Bai 09 - Properties nâng cao.dll

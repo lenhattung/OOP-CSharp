@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 09 - Properties nâng cao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9b8769c841c049d5ae50472a54e56d9c3cde8648")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd80a53f382c19a30b62750d059aea15960c4674")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 09 - Properties nâng cao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 09 - Properties nâng cao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
