@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\OOP-CSharp\\Bai 10 - Properties nâng cao\\Bai 09 - Properties nâng cao.csproj": {}
+    "D:\\Github\\OOP-CSharp\\Bai 11 - Exception Handling\\Bai 11 - Exception Handling.csproj": {}
   },
   "projects": {
-    "D:\\Github\\OOP-CSharp\\Bai 10 - Properties nâng cao\\Bai 09 - Properties nâng cao.csproj": {
+    "D:\\Github\\OOP-CSharp\\Bai 11 - Exception Handling\\Bai 11 - Exception Handling.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\OOP-CSharp\\Bai 10 - Properties nâng cao\\Bai 09 - Properties nâng cao.csproj",
-        "projectName": "Bai 09 - Properties nâng cao",
-        "projectPath": "D:\\Github\\OOP-CSharp\\Bai 10 - Properties nâng cao\\Bai 09 - Properties nâng cao.csproj",
+        "projectUniqueName": "D:\\Github\\OOP-CSharp\\Bai 11 - Exception Handling\\Bai 11 - Exception Handling.csproj",
+        "projectName": "Bai 11 - Exception Handling",
+        "projectPath": "D:\\Github\\OOP-CSharp\\Bai 11 - Exception Handling\\Bai 11 - Exception Handling.csproj",
         "packagesPath": "C:\\Users\\tungi\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\OOP-CSharp\\Bai 10 - Properties nâng cao\\obj\\",
+        "outputPath": "D:\\Github\\OOP-CSharp\\Bai 11 - Exception Handling\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
