@@ -87,9 +87,76 @@ public class Program
 
         Console.WriteLine("Chương trình kết thúc.");
     }
+
+    public static void ViDu4()
+    {
+        try
+        {
+            Console.Write("Nhập tuổi: ");
+            int age = int.Parse(Console.ReadLine());
+
+            if (age < 0)
+            {
+                throw new Exception("Tuổi không được âm!");
+            }
+
+            if (age > 150)
+            {
+                throw new Exception("Tuổi không hợp lệ!");
+            }
+        }
+        catch (FormatException ex)
+        {
+            Console.WriteLine("Lỗi: Vui lòng nhập số!");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Lỗi: "+e.Message); ;
+        }
+    }
+
+    // Custom Exception
+    public static void ViDu5()
+    {
+        try
+        {
+            Console.Write("Nhập tuổi: ");
+            int age = int.Parse(Console.ReadLine());
+
+            if (age < 0)
+            {
+                throw new InvalidAgeException("Tuổi không được âm!");
+            }
+
+            if (age > 150)
+            {
+                throw new InvalidAgeException("Tuổi không hợp lệ!");
+            }
+        }
+        catch (FormatException ex)
+        {
+            Console.WriteLine("Lỗi: Vui lòng nhập số!");
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("Lỗi: " + e.Message); ;
+        }
+    }
+
     public static void Main()
     {
         Console.OutputEncoding = Encoding.UTF8;
-        ViDu3();
+        ViDu5();
     }
 }
+
+
+/*
+ * 
+ * Bài 1 - ViDu6: Viết chương trình tính giai thừa với xử lý exception
+ * 
+ * Bài 2 - ViDu7: Tính căn bậc hai. Viết chương trình nhập 1 số và tính căn bậc hai. Xử lý lỗi khi nhập số âm.
+ * 
+ * Bài 3 - ViDu8: Kiểm tra email Tạo exception InvalidEmailException. Email phải chứa '@'.
+ * 
+ */
