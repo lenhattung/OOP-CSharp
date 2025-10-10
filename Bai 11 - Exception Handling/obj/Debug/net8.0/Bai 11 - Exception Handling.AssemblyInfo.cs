@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 11 - Exception Handling")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddb2144e87399c3746a09f1324580d7a88c6549d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a7737ac7daa621a2842db0b8b0cc92c4d08d0467")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 11 - Exception Handling")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 11 - Exception Handling")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

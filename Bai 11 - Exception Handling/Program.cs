@@ -87,16 +87,40 @@
         {
             Console.WriteLine("Kết thúc chương trình tính điểm.");
         }
-
-        //=====================
     }
 
 
     public static void ViDu3()
     {
+        try
+        {
+            int[] x = { 1, 2, 3, 4, 5 };
+            Console.WriteLine(x[9]);
+        }
+        catch (IndexOutOfRangeException e)
+        {
+            Console.WriteLine(e.Message);
+        }
+    }
 
-        int[] x = { 1, 2, 3, 4, 5 };
-        Console.WriteLine(x[9]);
+    public static void ViDu4()
+    {
+        try
+        {
+            Console.Write("Nhập tuổi: ");
+            int age = int.Parse(Console.ReadLine());
+
+            // Bước 2: Ném (throw) exception khi tuổi < 0
+            if (age < 0)
+                throw new InvalidAgeException("Tuổi không được âm!");
+
+            if (age > 150)
+                throw new InvalidAgeException("Tuổi quá lớn, không hợp lý!");
+        }
+        catch (InvalidAgeException e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 
 
@@ -104,7 +128,9 @@
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
         Console.InputEncoding = System.Text.Encoding.UTF8;
-        ViDu3();
+        ViDu4();
+
+        Console.WriteLine("Ket thuc chuong trinh!");
     }
 }
 
