@@ -159,4 +159,78 @@ public class Program
  * 
  * Bài 3 - ViDu8: Kiểm tra email Tạo exception InvalidEmailException. Email phải chứa '@'.
  * 
+ * Bài 4 - Tạo dự án mới:
+
+using System;
+using System.Text;
+
+// Tạo custom exception cho số dư không đủ
+class InsufficientBalanceException : Exception
+{
+    public InsufficientBalanceException(string message) : base(message)
+    {
+    }
+}
+
+// Tạo custom exception cho số tiền không hợp lệ
+class InvalidAmountException : Exception
+{
+    public InvalidAmountException(string message) : base(message)
+    {
+    }
+}
+
+class Program
+{
+    static void Main()
+    {
+        Console.OutputEncoding = Encoding.UTF8;
+        
+        try
+        {
+            double balance = 1000000; // 1 triệu đồng
+            
+            Console.WriteLine($"Số dư hiện tại: {balance:N0} VNĐ");
+            Console.Write("Nhập số tiền muốn rút: ");
+            double withdraw = double.Parse(Console.ReadLine());
+            
+            // Kiểm tra số tiền âm
+            if (withdraw <= 0)
+                throw new InvalidAmountException("Số tiền rút phải lớn hơn 0!");
+            
+            // Kiểm tra số dư
+            if (withdraw > balance)
+                throw new InsufficientBalanceException("Số dư không đủ!");
+            
+            balance -= withdraw;
+            Console.WriteLine($"\nRút tiền thành công!");
+            Console.WriteLine($"Số tiền đã rút: {withdraw:N0} VNĐ");
+            Console.WriteLine($"Số dư còn lại: {balance:N0} VNĐ");
+        }
+        catch (InsufficientBalanceException ex)
+        {
+            Console.WriteLine($"\n LỖI SỐ DƯ: {ex.Message}");
+        }
+        catch (InvalidAmountException ex)
+        {
+            Console.WriteLine($"\n LỖI SỐ TIỀN: {ex.Message}");
+        }
+        catch (FormatException ex)
+        {
+            Console.WriteLine("\n LỖI NHẬP LIỆU: Vui lòng nhập số!");
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine($"\n LỖI: {ex.Message}");
+        }
+        finally
+        {
+            Console.WriteLine("\nCảm ơn bạn đã sử dụng dịch vụ!");
+        }
+    }
+}
+ 
+
+ * 
  */
+
