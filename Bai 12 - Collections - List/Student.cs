@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Student
+public class Student : IComparable
 {
     public int Id { get; set; }
     public string Name { get; set; }
@@ -23,9 +23,30 @@ public class Student
         return $"ID: {Id}, Name: {Name}, GPA: {GPA}";
     }
 
+    // Để Contains() hoạt động
     public override bool Equals(object? obj)
     {
-        return base.Equals(obj);
+        if (obj is Student other)
+            return this.Id == other.Id;
+        return false;
+    }
+
+    public override int GetHashCode()
+    {
+        return Id.GetHashCode();
+    }
+
+    // Để Sort() hoạt động - QUAN TRỌNG!
+    public int CompareTo(object? obj)
+    {
+        if (obj == null) return 1;
+
+        Student other = obj as Student;
+        if (other == null)
+            throw new ArgumentException("Object is not a Student");
+
+        // Sắp xếp theo GPA giảm dần
+        return other.GPA.CompareTo(this.GPA);
     }
 }
 

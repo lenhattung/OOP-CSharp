@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 12 - Collections - List")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10b24759f99b27c7e8226ffb4defa4eb4022690a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e29c04c23a34fd32c574fc81567e2da3d3f72dd4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 12 - Collections - List")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 12 - Collections - List")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
