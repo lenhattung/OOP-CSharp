@@ -4,18 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-public class Student : IComparable
+public class Student : IComparable<Student>
 {
     public int Id { get; set; }
     public string Name { get; set; }
-
     public double GPA { get; set; }
 
     public Student(int id, string Name, double GPA)
     {
         this.Id = id;
         this.Name = Name;
-        this. GPA = GPA;
+        this.GPA = GPA;
     }
 
     public override string ToString()
@@ -31,13 +30,7 @@ public class Student : IComparable
         return false;
     }
 
-    public override int GetHashCode()
-    {
-        return Id.GetHashCode();
-    }
-
-    // Để Sort() hoạt động - QUAN TRỌNG!
-    public int CompareTo(object? obj)
+    public int CompareTo(Student? obj)
     {
         if (obj == null) return 1;
 
@@ -48,5 +41,11 @@ public class Student : IComparable
         // Sắp xếp theo GPA giảm dần
         return other.GPA.CompareTo(this.GPA);
     }
+
+    /*
+        < 0: đối tượng hiện tại nhỏ hơn đối tượng so sánh
+        = 0: bằng nhau
+        > 0: đối tượng hiện tại lớn hơn
+     */
 }
 
