@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\bin\Debug\net8.0\BaiTap 13 - Collection  - Stack.exe
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\bin\Debug\net8.0\BaiTap 13 - Collection  - Stack.deps.json
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\bin\Debug\net8.0\BaiTap 13 - Collection  - Stack.runtimeconfig.json
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\bin\Debug\net8.0\BaiTap 13 - Collection  - Stack.dll
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\bin\Debug\net8.0\BaiTap 13 - Collection  - Stack.pdb
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.AssemblyInfo.cs
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.sourcelink.json
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.dll
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\refint\BaiTap 13 - Collection  - Stack.dll
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.pdb
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\BaiTap 13 - Collection  - Stack.genruntimeconfig.cache
+D:\Github\OOP-CSharp\BaiTap 13 - Collection  - Stack\obj\Debug\net8.0\ref\BaiTap 13 - Collection  - Stack.dll
