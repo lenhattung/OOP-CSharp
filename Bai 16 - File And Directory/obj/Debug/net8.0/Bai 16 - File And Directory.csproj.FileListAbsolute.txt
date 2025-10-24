@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\bin\Debug\net8.0\Bai 16 - File And Directory.exe
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\bin\Debug\net8.0\Bai 16 - File And Directory.deps.json
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\bin\Debug\net8.0\Bai 16 - File And Directory.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\bin\Debug\net8.0\Bai 16 - File And Directory.dll
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\bin\Debug\net8.0\Bai 16 - File And Directory.pdb
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.sourcelink.json
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.dll
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\refint\Bai 16 - File And Directory.dll
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.pdb
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\Bai 16 - File And Directory.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 16 - File And Directory\obj\Debug\net8.0\ref\Bai 16 - File And Directory.dll

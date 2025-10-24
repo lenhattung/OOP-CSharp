@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Bai 16 - File And Directory/1.0.0": {
+        "runtime": {
+          "Bai 16 - File And Directory.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Bai 16 - File And Directory/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
