@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bai 16 - File And Directory")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f34a9e202197df9a19b05a84a1d11460bf311f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c72d188f0af7651bfd6cb9020d8b4ff547201e15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bai 16 - File And Directory")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bai 16 - File And Directory")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

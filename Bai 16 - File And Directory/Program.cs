@@ -1,6 +1,9 @@
 ﻿using System;
 using System.IO;
+using System.Runtime.Serialization;
+using System.Runtime.Serialization.Formatters.Binary;
 using System.Text;
+using System.Text.Json;
 
 public class Program
 {
@@ -113,12 +116,67 @@ public class Program
             Console.WriteLine($"Tổng: {count} sản phẩm");
         }
     }
+
+    public static void ViDu4()
+    {
+        // tạo đối tượng
+        SinhVien sv = new SinhVien
+        {
+            MaSV = 123,
+            HoTen = "Nguyễn Văn A",
+            NgaySinh = new DateTime(2003, 5, 15),
+            DiemTB = 8.7,
+            Lop = "CNTT01"
+        };
+
+        string path = @"D:\sv.dat";
+
+        // ===== ghi đối tượng ra file nhị phân =====
+        string json = sv.ToJson();
+        Console.WriteLine(json);
+        File.WriteAllText(path, json);
+
+        string json2 = File.ReadAllText(path);
+        SinhVien sv2 = SinhVien.FromJson(json2);
+        Console.WriteLine(sv2.ToString());
+    }
+
+    public static void ViDu5()
+    {
+        // tạo đối tượng
+        List<SinhVien> ds = new List<SinhVien>
+        {
+            new SinhVien { MaSV = 101, HoTen = "Nguyễn Văn A", NgaySinh = new DateTime(2003, 5, 15), DiemTB = 8.7, Lop = "CNTT01" },
+            new SinhVien { MaSV = 102, HoTen = "Trần Thị B", NgaySinh = new DateTime(2002, 9, 10), DiemTB = 7.9, Lop = "CNTT01" },
+            new SinhVien { MaSV = 103, HoTen = "Lê Văn C", NgaySinh = new DateTime(2004, 1, 22), DiemTB = 9.1, Lop = "CNTT02" }
+        };
+
+        string path = @"D:\ds_sinhvien.json";
+
+        // ===== ghi danh sách ra file JSON =====
+        var options = new JsonSerializerOptions { WriteIndented = true };
+        string json = JsonSerializer.Serialize(ds, options);
+        File.WriteAllText(path, json);
+        Console.WriteLine("Đã lưu danh sách sinh viên xuống file JSON!");
+
+        // ===== đọc lại danh sách từ file =====
+        string json2 = File.ReadAllText(path);
+        List<SinhVien> ds2 = JsonSerializer.Deserialize<List<SinhVien>>(json2);
+
+        Console.WriteLine("\nDanh sách sinh viên đọc lại từ file:");
+        foreach (var sv in ds2)
+        {
+            Console.WriteLine(sv.ToString());
+        }
+    }
     static void Main()
     {
         Console.OutputEncoding = Encoding.UTF8;
         Console.InputEncoding = Encoding.UTF8;
         //ViDu1();
         // ViDu2();
-        ViDu3();
+        //ViDu3();
+        //ViDu4();
+        ViDu5();
     }
 }
