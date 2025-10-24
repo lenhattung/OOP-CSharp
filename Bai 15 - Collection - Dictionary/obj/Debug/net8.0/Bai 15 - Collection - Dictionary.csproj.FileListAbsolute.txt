@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\bin\Debug\net8.0\Bai 15 - Collection - Dictionary.exe
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\bin\Debug\net8.0\Bai 15 - Collection - Dictionary.deps.json
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\bin\Debug\net8.0\Bai 15 - Collection - Dictionary.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\bin\Debug\net8.0\Bai 15 - Collection - Dictionary.dll
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\bin\Debug\net8.0\Bai 15 - Collection - Dictionary.pdb
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.sourcelink.json
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.dll
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\refint\Bai 15 - Collection - Dictionary.dll
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.pdb
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\Bai 15 - Collection - Dictionary.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 15 - Collection - Dictionary\obj\Debug\net8.0\ref\Bai 15 - Collection - Dictionary.dll

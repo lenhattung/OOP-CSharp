@@ -1,0 +1,91 @@
+﻿BÀI TẬP: XÂY DỰNG TỪ ĐIỂN ANH-VIỆT
+Mô tả
+Xây dựng chương trình từ điển Anh-Việt sử dụng Dictionary trong C#. Chương trình cho phép người dùng quản lý và tra cứu từ vựng tiếng Anh với nghĩa tiếng Việt tương ứng.
+Yêu cầu chức năng
+
+1. Khởi tạo dữ liệu mẫu (InitializeSampleData)
+
+Tạo Dictionary với Key là từ tiếng Anh (chữ thường), Value là nghĩa tiếng Việt
+Thêm sẵn 10 từ mẫu vào từ điển, ví dụ:
+
+hello → xin chào
+world → thế giới
+book → sách
+computer → máy tính
+student → sinh viên
+(Thêm 5 từ khác)
+
+
+
+2. Hiển thị menu (DisplayMenu)
+Tạo menu với các lựa chọn:
+========================================
+         TỪ ĐIỂN ANH-VIỆT
+========================================
+1. Thêm từ mới
+2. Tra cứu nghĩa
+3. Xóa từ
+4. Hiển thị tất cả từ (A-Z)
+5. Tìm kiếm từ
+6. Thống kê
+0. Thoát
+========================================
+```
+
+### 3. Thêm từ mới (AddWord)
+- Nhập từ tiếng Anh (chuyển về chữ thường)
+- Kiểm tra từ đã tồn tại chưa
+  - Nếu đã có: Hỏi người dùng có muốn cập nhật nghĩa không
+  - Nếu chưa có: Thêm từ mới
+- Nhập nghĩa tiếng Việt
+- Kiểm tra không được để trống
+- Thông báo kết quả
+
+### 4. Tra cứu nghĩa (LookupWord)
+- Nhập từ cần tra (chuyển về chữ thường)
+- Tìm kiếm trong Dictionary
+- Hiển thị nghĩa nếu tìm thấy
+- Thông báo nếu không tìm thấy
+
+### 5. Xóa từ (DeleteWord)
+- Nhập từ cần xóa (chuyển về chữ thường)
+- Kiểm tra từ có tồn tại không
+- Yêu cầu xác nhận trước khi xóa (y/n)
+- Xóa từ khỏi Dictionary
+- Thông báo kết quả
+
+### 6. Hiển thị tất cả từ (DisplayAllWords)
+- Hiển thị toàn bộ từ trong từ điển
+- Sắp xếp theo thứ tự alphabet (A-Z)
+- Định dạng dạng bảng:
+```
+  Từ tiếng Anh        Nghĩa tiếng Việt
+  ------------------------------------------
+  1. book             - sách
+  2. computer         - máy tính
+  ...
+  ------------------------------------------
+  Tổng cộng: X từ
+
+7. Tìm kiếm từ (SearchWords)
+
+Nhập chuỗi ký tự cần tìm
+Tìm tất cả các từ có chứa chuỗi đó (sử dụng Contains)
+Hiển thị kết quả theo thứ tự alphabet
+Thông báo số lượng kết quả tìm được
+Nếu không tìm thấy: thông báo không có kết quả
+
+8. Thống kê (ShowStatistics)
+Hiển thị các thông tin:
+
+Tổng số từ trong từ điển
+Từ dài nhất (số ký tự)
+Từ ngắn nhất (số ký tự)
+Độ dài trung bình của các từ
+
+9. Vòng lặp chương trình
+
+Sử dụng vòng lặp while để chương trình chạy liên tục
+Sau mỗi thao tác: "Nhấn phím bất kỳ để tiếp tục..."
+Xóa màn hình trước khi hiển thị menu mới
+Chọn 0 để thoát chương trình
