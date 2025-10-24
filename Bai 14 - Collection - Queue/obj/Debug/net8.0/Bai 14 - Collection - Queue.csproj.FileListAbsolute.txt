@@ -1,0 +1,15 @@
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\bin\Debug\net8.0\Bai 14 - Collection - Queue.exe
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\bin\Debug\net8.0\Bai 14 - Collection - Queue.deps.json
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\bin\Debug\net8.0\Bai 14 - Collection - Queue.runtimeconfig.json
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\bin\Debug\net8.0\Bai 14 - Collection - Queue.dll
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\bin\Debug\net8.0\Bai 14 - Collection - Queue.pdb
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.AssemblyInfoInputs.cache
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.AssemblyInfo.cs
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.csproj.CoreCompileInputs.cache
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.sourcelink.json
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.dll
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\refint\Bai 14 - Collection - Queue.dll
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.pdb
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\Bai 14 - Collection - Queue.genruntimeconfig.cache
+D:\Github\OOP-CSharp\Bai 14 - Collection - Queue\obj\Debug\net8.0\ref\Bai 14 - Collection - Queue.dll
