@@ -44,9 +44,9 @@ public class Program
         Console.WriteLine($"Ngày tạo: {dInfo2.CreationTime}");
 
         // Xóa
-        File.Delete(path);
+        //File.Delete(path);
         // Directory.Delete(path2); => chỉ xóa được nếu thư mục rỗng.
-        Directory.Delete(path2, recursive: true); // xóa nội dung bên trong thư mục, xóa bản thân nó
+        // Directory.Delete(path2, recursive: true); // xóa nội dung bên trong thư mục, xóa bản thân nó
         // Directory.Delete(@"D:\", recursive: true); // xóa sạch ổ D
     }
 
